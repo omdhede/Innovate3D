@@ -1,5 +1,5 @@
 # Demo Video of the Project
-![INNOVATE 3D](https://drive.google.com/file/d/1pwQVcaQGrDBLXhgJGwojxrwgB-vBmOxF/view?usp=sharing)
+[INNOVATE 3D](https://drive.google.com/file/d/1pwQVcaQGrDBLXhgJGwojxrwgB-vBmOxF/view?usp=sharing)
 
 
 # Getting Started with Create React App
