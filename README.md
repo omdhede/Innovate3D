@@ -1,6 +1,9 @@
 # Demo Video of the Project
 [INNOVATE 3D](https://drive.google.com/file/d/1pwQVcaQGrDBLXhgJGwojxrwgB-vBmOxF/view?usp=sharing)
 
+# Contributions
+### Riya Agarwal => [Figma Design](https://www.figma.com/file/uokIpVr7Gm8dSMSff1xFaL/Innovate3D%3A-A-collaborative-Platform-for-3D-Artist?type=design&node-id=0%3A1&mode=design&t=ha2iLUIUElCpt7VS-1)
+
 
 # Getting Started with Create React App
 
